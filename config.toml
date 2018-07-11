@@ -1,0 +1,32 @@
+baseURL = "https://www.lyken.rs/"
+languageCode = "en-us"
+title = "Lyken Software Solutions / Rust"
+theme = "hugo-elate-theme"
+
+[params]
+custom_css = ["css/custom.css"]
+
+[params.navigation]
+brand = "Lyken Software Solutions"
+
+[params.hero]
+title = "Lyken Software Solutions"
+subtitle = '<img src="https://www.rust-lang.org/logos/rust-logo-32x32.png"> <a href="https://rust-lang.org">Rust</a> Consultancy Department'
+
+[[params.intro.item]]
+title = "Toolchain"
+description = "Implement new features and improve the Rust toolchain (rustc, cargo & friends) for your needs"
+url = "mailto:solutions+toolchain@lyken.rs"
+button = "Contact Us"
+
+[[params.intro.item]]
+title = "RIIR"
+description = "Rewrite entire codebases from other languages into idiomatic and safe Rust"
+url = "mailto:solutions+riir@lyken.rs"
+button = "Contact Us"
+
+[[params.intro.item]]
+title = "De Novo"
+description = "Develop and maintain Rust software against Rust stable or nightly"
+url = "mailto:solutions+denovo@lyken.rs"
+button = "Contact Us"
