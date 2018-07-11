@@ -1,0 +1,12 @@
+.js .to-animate,
+.js .to-animate-2,
+.js .single-animate {
+    opacity: 1 !important;
+}
+#fh5co-home, #fh5co-home .text-wrap {
+    height: 25em !important;
+}
+#fh5co-intro .fh5co-block {
+    min-height: 0 !important;
+    padding: 0 !important;
+}
